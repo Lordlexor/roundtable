@@ -6,7 +6,7 @@
     "age": 38,
     "isActive": true,
     "birthDate": "1185-06-01",
-    "imageUrl": "https://example.com/lancelot.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/lancelot.webp",
     "rank": "Knight of the Round Table",
     "hobbies": ["Jousting", "Sword fighting", "Rescuing damsels"],
     "weapon": {
@@ -25,7 +25,7 @@
     "age": 45,
     "isActive": false,
     "birthDate": "1160-03-05",
-    "imageUrl": "https://example.com/arthur.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/arthur.webp",
     "rank": "King",
     "hobbies": ["Strategizing", "Ruling", "Seeking the Holy Grail"],
     "weapon": {
@@ -44,7 +44,7 @@
     "age": 34,
     "isActive": true,
     "birthDate": "1190-09-12",
-    "imageUrl": "https://example.com/gawain.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/gawain.webp",
     "rank": "Knight of the Round Table",
     "hobbies": ["Hunting", "Chivalry", "Swordsmanship"],
     "weapon": {
@@ -63,7 +63,7 @@
     "age": 30,
     "isActive": true,
     "birthDate": "1195-11-25",
-    "imageUrl": "https://example.com/percival.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/percival.webp",
     "rank": "Grail Seeker",
     "hobbies": ["Adventuring", "Holy Quests", "Archery"],
     "weapon": {
@@ -82,7 +82,7 @@
     "age": 28,
     "isActive": true,
     "birthDate": "1200-01-14",
-    "imageUrl": "https://example.com/galahad.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/Galahad.webp",
     "rank": "Holy Knight",
     "hobbies": ["Meditation", "Questing", "Swordplay"],
     "weapon": {
@@ -101,7 +101,7 @@
     "age": 35,
     "isActive": false,
     "birthDate": "1175-05-20",
-    "imageUrl": "https://example.com/tristan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/tristan.webp",
     "rank": "Knight",
     "hobbies": ["Music", "Poetry", "Fencing"],
     "weapon": {
@@ -120,7 +120,7 @@
     "age": 40,
     "isActive": false,
     "birthDate": "1168-07-18",
-    "imageUrl": "https://example.com/bedivere.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/bedivere.webp",
     "rank": "Knight of the Round Table",
     "hobbies": ["Storytelling", "Sailing", "Dueling"],
     "weapon": {
@@ -139,7 +139,7 @@
     "age": 36,
     "isActive": false,
     "birthDate": "1178-08-30",
-    "imageUrl": "https://example.com/mordred.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/mordred.webp",
     "rank": "Rebel Knight",
     "hobbies": ["Scheming", "Warfare", "Dueling"],
     "weapon": {
@@ -158,7 +158,7 @@
     "age": 50,
     "isActive": false,
     "birthDate": "1145-04-10",
-    "imageUrl": "https://example.com/ector.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/Ector.webp",
     "rank": "Nobleman",
     "hobbies": ["Hunting", "Training young knights", "Horseback riding"],
     "weapon": {
@@ -177,7 +177,7 @@
     "age": 42,
     "isActive": true,
     "birthDate": "1170-02-15",
-    "imageUrl": "https://example.com/kay.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/kay.webp",
     "rank": "Seneschal",
     "hobbies": ["Cooking", "Mock battles", "Drinking"],
     "weapon": {
