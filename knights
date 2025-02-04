@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Sir Lancelot",
+    "description": "A noble knight of the Round Table, known for his bravery and love affair with Queen Guinevere.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "1185-06-01",
+    "imageUrl": "https://example.com/lancelot.jpg",
+    "rank": "Knight of the Round Table",
+    "hobbies": ["Jousting", "Sword fighting", "Rescuing damsels"],
+    "weapon": {
+      "id": 101,
+      "name": "Arondight",
+      "type": "Sword",
+      "damage": 85,
+      "isLegendary": true,
+      "imageUrl": "https://example.com/arondight.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "King Arthur",
+    "description": "The legendary British leader and founder of the Knights of the Round Table.",
+    "age": 45,
+    "isActive": false,
+    "birthDate": "1160-03-05",
+    "imageUrl": "https://example.com/arthur.jpg",
+    "rank": "King",
+    "hobbies": ["Strategizing", "Ruling", "Seeking the Holy Grail"],
+    "weapon": {
+      "id": 102,
+      "name": "Excalibur",
+      "type": "Sword",
+      "damage": 95,
+      "isLegendary": true,
+      "imageUrl": "https://example.com/excalibur.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sir Gawain",
+    "description": "Arthur's nephew, known for his strength and unwavering honor.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1190-09-12",
+    "imageUrl": "https://example.com/gawain.jpg",
+    "rank": "Knight of the Round Table",
+    "hobbies": ["Hunting", "Chivalry", "Swordsmanship"],
+    "weapon": {
+      "id": 103,
+      "name": "Galatine",
+      "type": "Sword",
+      "damage": 80,
+      "isLegendary": false,
+      "imageUrl": "https://example.com/galatine.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sir Percival",
+    "description": "One of the original seekers of the Holy Grail, known for his purity.",
+    "age": 30,
+    "isActive": true,
+    "birthDate": "1195-11-25",
+    "imageUrl": "https://example.com/percival.jpg",
+    "rank": "Grail Seeker",
+    "hobbies": ["Adventuring", "Holy Quests", "Archery"],
+    "weapon": {
+      "id": 104,
+      "name": "The Grail Shield",
+      "type": "Shield",
+      "defense": 90,
+      "isLegendary": true,
+      "imageUrl": "https://example.com/grail_shield.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sir Galahad",
+    "description": "The purest knight of all, the only one to achieve the Holy Grail.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1200-01-14",
+    "imageUrl": "https://example.com/galahad.jpg",
+    "rank": "Holy Knight",
+    "hobbies": ["Meditation", "Questing", "Swordplay"],
+    "weapon": {
+      "id": 105,
+      "name": "The Holy Sword",
+      "type": "Sword",
+      "damage": 90,
+      "isLegendary": true,
+      "imageUrl": "https://example.com/holy_sword.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sir Tristan",
+    "description": "A tragic knight, famous for his doomed love story with Isolde.",
+    "age": 35,
+    "isActive": false,
+    "birthDate": "1175-05-20",
+    "imageUrl": "https://example.com/tristan.jpg",
+    "rank": "Knight",
+    "hobbies": ["Music", "Poetry", "Fencing"],
+    "weapon": {
+      "id": 106,
+      "name": "The Ivory Blade",
+      "type": "Sword",
+      "damage": 78,
+      "isLegendary": false,
+      "imageUrl": "https://example.com/ivory_blade.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sir Bedivere",
+    "description": "A loyal knight who returned Excalibur to the Lady of the Lake.",
+    "age": 40,
+    "isActive": false,
+    "birthDate": "1168-07-18",
+    "imageUrl": "https://example.com/bedivere.jpg",
+    "rank": "Knight of the Round Table",
+    "hobbies": ["Storytelling", "Sailing", "Dueling"],
+    "weapon": {
+      "id": 107,
+      "name": "The Ocean Shield",
+      "type": "Shield",
+      "defense": 88,
+      "isLegendary": false,
+      "imageUrl": "https://example.com/ocean_shield.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sir Mordred",
+    "description": "The treacherous knight who fought against King Arthur at Camlann.",
+    "age": 36,
+    "isActive": false,
+    "birthDate": "1178-08-30",
+    "imageUrl": "https://example.com/mordred.jpg",
+    "rank": "Rebel Knight",
+    "hobbies": ["Scheming", "Warfare", "Dueling"],
+    "weapon": {
+      "id": 108,
+      "name": "The Shadow Dagger",
+      "type": "Dagger",
+      "damage": 70,
+      "isLegendary": false,
+      "imageUrl": "https://example.com/shadow_dagger.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Sir Ector",
+    "description": "Arthur's foster father and a respected noble.",
+    "age": 50,
+    "isActive": false,
+    "birthDate": "1145-04-10",
+    "imageUrl": "https://example.com/ector.jpg",
+    "rank": "Nobleman",
+    "hobbies": ["Hunting", "Training young knights", "Horseback riding"],
+    "weapon": {
+      "id": 109,
+      "name": "The Guardian Spear",
+      "type": "Spear",
+      "damage": 75,
+      "isLegendary": false,
+      "imageUrl": "https://example.com/guardian_spear.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Sir Kay",
+    "description": "Arthur's foster brother and one of his most trusted knights.",
+    "age": 42,
+    "isActive": true,
+    "birthDate": "1170-02-15",
+    "imageUrl": "https://example.com/kay.jpg",
+    "rank": "Seneschal",
+    "hobbies": ["Cooking", "Mock battles", "Drinking"],
+    "weapon": {
+      "id": 110,
+      "name": "The Flaming Sword",
+      "type": "Sword",
+      "damage": 85,
+      "isLegendary": false,
+      "imageUrl": "https://example.com/flaming_sword.jpg"
+    }
+  }
+]
