@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "name": "Arondight",
+    "type": "Sword",
+    "damage": 85,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/arondight.webp"
+  },
+  {
+    "id": 102,
+    "name": "Excalibur",
+    "type": "Sword",
+    "damage": 95,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/excalibur.webp"
+  },
+  {
+    "id": 103,
+    "name": "Galatine",
+    "type": "Sword",
+    "damage": 80,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/galatine.webp"
+  },
+  {
+    "id": 104,
+    "name": "The Grail Shield",
+    "type": "Shield",
+    "defense": 90,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/grailshield.webp"
+  },
+  {
+    "id": 105,
+    "name": "The Holy Sword",
+    "type": "Sword",
+    "damage": 90,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/holysword.webp"
+  },
+  {
+    "id": 106,
+    "name": "The Ivory Blade",
+    "type": "Sword",
+    "damage": 78,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/ivory.webp"
+  },
+  {
+    "id": 107,
+    "name": "The Ocean Shield",
+    "type": "Shield",
+    "defense": 88,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/oceanshield.webp"
+  },
+  {
+    "id": 108,
+    "name": "The Shadow Dagger",
+    "type": "Dagger",
+    "damage": 70,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/shadowdagger.webp"
+  },
+  {
+    "id": 109,
+    "name": "The Guardian Spear",
+    "type": "Spear",
+    "damage": 75,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/guardian.webp"
+  },
+  {
+    "id": 110,
+    "name": "The Flaming Sword",
+    "type": "Sword",
+    "damage": 85,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/flamesword.webp"
+  }
+]
