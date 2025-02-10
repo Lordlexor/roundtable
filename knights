@@ -10,13 +10,13 @@
     "rank": "Knight of the Round Table",
     "hobbies": ["Jousting", "Sword fighting", "Rescuing damsels"],
     "weapon": {
-      "id": 101,
-      "name": "Arondight",
-      "type": "Sword",
-      "damage": 85,
-      "isLegendary": true,
-      "imageUrl": "https://example.com/arondight.jpg"
-    }
+    "id": 101,
+    "name": "Arondight",
+    "type": "Sword",
+    "damage": 85,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/arondight.webp"
+  }
   },
   {
     "id": 2,
@@ -29,13 +29,13 @@
     "rank": "King",
     "hobbies": ["Strategizing", "Ruling", "Seeking the Holy Grail"],
     "weapon": {
-      "id": 102,
-      "name": "Excalibur",
-      "type": "Sword",
-      "damage": 95,
-      "isLegendary": true,
-      "imageUrl": "https://example.com/excalibur.jpg"
-    }
+    "id": 102,
+    "name": "Excalibur",
+    "type": "Sword",
+    "damage": 95,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/excalibur.webp"
+  }
   },
   {
     "id": 3,
@@ -48,13 +48,13 @@
     "rank": "Knight of the Round Table",
     "hobbies": ["Hunting", "Chivalry", "Swordsmanship"],
     "weapon": {
-      "id": 103,
-      "name": "Galatine",
-      "type": "Sword",
-      "damage": 80,
-      "isLegendary": false,
-      "imageUrl": "https://example.com/galatine.jpg"
-    }
+    "id": 103,
+    "name": "Galatine",
+    "type": "Sword",
+    "damage": 80,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/galatine.webp"
+  }
   },
   {
     "id": 4,
@@ -67,13 +67,13 @@
     "rank": "Grail Seeker",
     "hobbies": ["Adventuring", "Holy Quests", "Archery"],
     "weapon": {
-      "id": 105,
-      "name": "The Holy Sword",
-      "type": "Sword",
-      "damage": 90,
-      "isLegendary": true,
-      "imageUrl": "https://example.com/holy_sword.jpg"
-    }
+    "id": 105,
+    "name": "The Holy Sword",
+    "type": "Sword",
+    "damage": 90,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/holysword.webp"
+  }
   },
   {
     "id": 5,
@@ -86,13 +86,13 @@
     "rank": "Holy Knight",
     "hobbies": ["Meditation", "Questing", "Swordplay"],
     "weapon": {
-      "id": 105,
-      "name": "The Holy Sword",
-      "type": "Sword",
-      "damage": 90,
-      "isLegendary": true,
-      "imageUrl": "https://example.com/holy_sword.jpg"
-    }
+    "id": 105,
+    "name": "The Holy Sword",
+    "type": "Sword",
+    "damage": 90,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/holysword.webp"
+  }
   },
   {
     "id": 6,
@@ -105,13 +105,13 @@
     "rank": "Knight",
     "hobbies": ["Music", "Poetry", "Fencing"],
     "weapon": {
-      "id": 105,
-      "name": "The Holy Sword",
-      "type": "Sword",
-      "damage": 90,
-      "isLegendary": true,
-      "imageUrl": "https://example.com/holy_sword.jpg"
-    }
+    "id": 105,
+    "name": "The Holy Sword",
+    "type": "Sword",
+    "damage": 90,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/holysword.webp"
+  }
   },
   {
     "id": 7,
@@ -124,13 +124,12 @@
     "rank": "Knight of the Round Table",
     "hobbies": ["Storytelling", "Sailing", "Dueling"],
     "weapon": {
-      "id": 105,
-      "name": "The Holy Sword",
-      "type": "Sword",
-      "damage": 90,
-      "isLegendary": true,
-      "imageUrl": "https://example.com/holy_sword.jpg"
-    }
+    "id": 105,
+    "name": "The Holy Sword",
+    "type": "Sword",
+    "damage": 90,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/holysword.webp"
   },
   {
     "id": 8,
@@ -143,13 +142,13 @@
     "rank": "Rebel Knight",
     "hobbies": ["Scheming", "Warfare", "Dueling"],
     "weapon": {
-      "id": 108,
-      "name": "The Shadow Dagger",
-      "type": "Dagger",
-      "damage": 70,
-      "isLegendary": false,
-      "imageUrl": "https://example.com/shadow_dagger.jpg"
-    }
+    "id": 108,
+    "name": "The Shadow Dagger",
+    "type": "Dagger",
+    "damage": 70,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/shadowdagger.webp"
+  }
   },
   {
     "id": 9,
@@ -162,13 +161,13 @@
     "rank": "Nobleman",
     "hobbies": ["Hunting", "Training young knights", "Horseback riding"],
     "weapon": {
-      "id": 109,
-      "name": "The Guardian Spear",
-      "type": "Spear",
-      "damage": 75,
-      "isLegendary": false,
-      "imageUrl": "https://example.com/guardian_spear.jpg"
-    }
+    "id": 109,
+    "name": "The Guardian Spear",
+    "type": "Spear",
+    "damage": 75,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/guardian.webp"
+  }
   },
   {
     "id": 10,
@@ -181,12 +180,12 @@
     "rank": "Seneschal",
     "hobbies": ["Cooking", "Mock battles", "Drinking"],
     "weapon": {
-      "id": 110,
-      "name": "The Flaming Sword",
-      "type": "Sword",
-      "damage": 85,
-      "isLegendary": false,
-      "imageUrl": "https://example.com/flaming_sword.jpg"
-    }
+    "id": 110,
+    "name": "The Flaming Sword",
+    "type": "Sword",
+    "damage": 85,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/roundtable/refs/heads/main/weapons/flamesword.webp"
+  }
   }
 ]
