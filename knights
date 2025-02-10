@@ -67,12 +67,12 @@
     "rank": "Grail Seeker",
     "hobbies": ["Adventuring", "Holy Quests", "Archery"],
     "weapon": {
-      "id": 104,
-      "name": "The Grail Shield",
-      "type": "Shield",
-      "defense": 90,
+      "id": 105,
+      "name": "The Holy Sword",
+      "type": "Sword",
+      "damage": 90,
       "isLegendary": true,
-      "imageUrl": "https://example.com/grail_shield.jpg"
+      "imageUrl": "https://example.com/holy_sword.jpg"
     }
   },
   {
@@ -105,12 +105,12 @@
     "rank": "Knight",
     "hobbies": ["Music", "Poetry", "Fencing"],
     "weapon": {
-      "id": 106,
-      "name": "The Ivory Blade",
+      "id": 105,
+      "name": "The Holy Sword",
       "type": "Sword",
-      "damage": 78,
-      "isLegendary": false,
-      "imageUrl": "https://example.com/ivory_blade.jpg"
+      "damage": 90,
+      "isLegendary": true,
+      "imageUrl": "https://example.com/holy_sword.jpg"
     }
   },
   {
@@ -124,12 +124,12 @@
     "rank": "Knight of the Round Table",
     "hobbies": ["Storytelling", "Sailing", "Dueling"],
     "weapon": {
-      "id": 107,
-      "name": "The Ocean Shield",
-      "type": "Shield",
-      "defense": 88,
-      "isLegendary": false,
-      "imageUrl": "https://example.com/ocean_shield.jpg"
+      "id": 105,
+      "name": "The Holy Sword",
+      "type": "Sword",
+      "damage": 90,
+      "isLegendary": true,
+      "imageUrl": "https://example.com/holy_sword.jpg"
     }
   },
   {
